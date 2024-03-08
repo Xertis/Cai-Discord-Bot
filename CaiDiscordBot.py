@@ -1,8 +1,5 @@
 import discord
-import threading
-import time
 import characterai
-import random
 from characterai import PyCAI
 from characterai import PyAsyncCAI
 from discord.ext import commands
