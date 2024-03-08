@@ -21,7 +21,7 @@ Default_char = 'CHAR'
 
 #A dictionary with Discord server names and their channels represented as IDs where the bot will communicate.
 chats_servers = {'Server1': 'chat_id1', 
-            'Server1': 'chat_id2'}
+            'Server2': 'chat_id2'}
 
 #The maximum packet size of messages, upon reaching which the bot will send messages to Characterai
 Max_message = 5
