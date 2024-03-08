@@ -37,7 +37,7 @@ intents.message_content = True
 
 #Cai Start
 async def Cai(message_user, server, user_name):
-    if message_user == '' and message_user == ' ':
+    if message_user == '' or message_user == ' ':
         message_user = 'None'
     try:
         client = PyAsyncCAI(CaiToken)
