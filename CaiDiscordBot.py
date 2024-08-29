@@ -7,17 +7,17 @@ import difflib
 #conf
 
 DATA = {
-    "Allert's Server": {
+    "AA": {
         "char": "CHAR",
         "cai_chat": "CHAT",
         "discord_chat": "DCHAT"
     },
-    "Our Quite Place": {
+    "BB": {
         "char": "CHAR",
         "cai_chat": "CHAT",
         "discord_chat": "DCHAT"
     },
-    "The Phoenix": {
+    "CC": {
         "char": "CHAR",
         "cai_chat": "CHAT",
         "discord_chat": "DCHAT"
